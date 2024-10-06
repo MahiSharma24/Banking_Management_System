@@ -33,4 +33,5 @@ MySQL (or your preferred database system)
 Screenshot 1
 🤝 Contributing
 Contributions are welcome! Feel free to submit issues and pull requests.
+
 Happy coding! 🎉
